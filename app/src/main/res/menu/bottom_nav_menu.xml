@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/tasks"
+        android:title="Tasks"
+        android:textSize="15sp"
+        android:icon="@drawable/check" />
+    <item
+        android:id="@+id/calendar"
+        android:title="Calendar"
+        android:textSize="15sp"
+        android:icon="@drawable/calendar" />
+    <item
+        android:id="@+id/gallery"
+        android:title="Gallery"
+        android:textSize="15sp"
+        android:icon="@drawable/gallery" />
+</menu>

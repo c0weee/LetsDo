@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name"> Where\'s the Dark?</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="label_tasks">My Tasks</string>
+    <string name="label_calendar">Calendar</string>
+    <string name="label_gallery">Gallery</string>
+    <string name="label_login">Login</string>
+    <string name="label_signup">Sign Up</string>
+    <string name="label_signup_here">Do not have an account? <u>Sign up here</u></string>
+    <string name="label_login_here">Already have an account? <u>Login here</u></string>
+</resources>

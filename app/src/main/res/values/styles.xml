@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <item name="colorPrimary">#37e1ce</item>
+        <item name="colorPrimaryDark">#2FB0A1</item>
+        <item name="colorAccent">#A9A9A9</item>
+        <item name="android:fontFamily">@font/eightbitdragon</item>
+    </style>
+    <style name="Splash" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="colorPrimary">#37e1ce</item>
+        <item name="colorPrimaryDark">#2FB0A1</item>
+        <item name="colorAccent">#A9A9A9</item>
+        <item name="android:fontFamily">@font/eightbitdragon</item>
+    </style>
+</resources>
